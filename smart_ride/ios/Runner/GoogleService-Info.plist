@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323582705102-degutnev8r7o94h6kfe548hvk90ts07t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323582705102-degutnev8r7o94h6kfe548hvk90ts07t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC92GVBqSDBFVi1W_uGuIBLfvnkj51gPXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323582705102</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.adeeshaBikeRidesense</string>
+	<key>PROJECT_ID</key>
+	<string>bike-app-iot</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bike-app-iot.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323582705102:ios:acaa43fed6c56b8edb3f9f</string>
+</dict>
+</plist>
