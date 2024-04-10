@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:smart_ride/View/loyalty.view.dart';
 
 import 'history.dart';
 import 'lasttrip.dart';
-import 'loyality.view.dart';
 import 'setting.dart';
 import 'static.dart';
 
